@@ -1,0 +1,10 @@
+.nav {
+  position: absolute;
+  width: 100%;
+}
+
+.nav_logo {
+  padding: 20px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
